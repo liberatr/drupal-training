@@ -26,6 +26,7 @@
     "require": {
         "composer/installers": "^1.0",
         "drupal-composer/drupal-scaffold": "^1.0",
+        "drupal/bootstrap": "^3.5",
         "drupal/config_installer": "^1.0",
         "drupal/core": "^8.0",
         "drupal/devel": "^1.0",
