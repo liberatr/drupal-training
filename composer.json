@@ -27,7 +27,9 @@
         "composer/installers": "^1.0",
         "drupal-composer/drupal-scaffold": "^1.0",
         "drupal/config_installer": "^1.0",
-        "drupal/core": "^8.0"
+        "drupal/core": "^8.0",
+        "drupal/devel": "^1.0",
+        "drupal/metatag": "^1.2"
     },
     "require-dev": {
         "behat/behat": "^3.1",
