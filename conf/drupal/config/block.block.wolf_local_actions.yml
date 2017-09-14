@@ -1,0 +1,20 @@
+uuid: 701b3998-fc3e-4729-997e-3d2f618ac68a
+langcode: en
+status: true
+dependencies:
+  theme:
+    - wolf
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: wolf_local_actions
+theme: wolf
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

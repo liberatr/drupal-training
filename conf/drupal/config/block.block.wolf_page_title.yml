@@ -1,0 +1,20 @@
+uuid: 86311c6a-b99c-4810-8b4a-ca85b32424ad
+langcode: en
+status: true
+dependencies:
+  theme:
+    - wolf
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: wolf_page_title
+theme: wolf
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

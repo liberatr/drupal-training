@@ -1,0 +1,19 @@
+uuid: a5a9b2a1-cfa8-49bf-b8bd-52809c6ece2e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_prerequisites
+    - node.type.article
+id: node.article.field_prerequisites
+field_name: field_prerequisites
+entity_type: node
+bundle: article
+label: Prerequisites
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
