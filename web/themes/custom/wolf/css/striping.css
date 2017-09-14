@@ -1,0 +1,6 @@
+.field--name-field-prerequisites li.odd {
+   background-color: #eee;
+}
+.field--name-field-prerequisites li.even {
+   background-color: #e0e;
+}

@@ -1,0 +1,4 @@
+/* Add a fancy border around images like this */
+.article .field--name-field-image img {
+  border: 4px solid #ccc;
+}

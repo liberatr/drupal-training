@@ -1,0 +1,12 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/image-frame.css: {}
+#      css/something.css: {}
+
+striping:
+  version: 1.x
+  css:
+    theme:
+      css/striping.css: {}

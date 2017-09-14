@@ -1,0 +1,11 @@
+name: Wolf!!
+type: theme
+description: 'This is a theme we made during training.'
+package: NTC
+version: 1.0
+core: 8.x
+base theme: bootstrap
+
+libraries:
+  - wolf/global-styling
+  - wolf/striping
